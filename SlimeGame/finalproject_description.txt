@@ -1,0 +1,10 @@
+This game is a simple obstacle avoidance game.
+The player runs around the screen using the WASD keys and avoids getting hit by the moving slime.
+There are sound effects in the game, and you can mute them and unmute them just by hitting the space bar.
+There is a beginging screen and a game over screen.
+The first screen showcases the highest score that is stored in the score.txt file.
+The game over screen gives the player the chance to reset the game.
+
+The player class simply controls the character and movement. 
+The obstacle class controls the movement of the slimes after they spawn. There spawning is handled by a method in the main class.
+
